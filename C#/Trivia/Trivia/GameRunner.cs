@@ -31,7 +31,7 @@ namespace Trivia
             do
             {
 
-                aGame.roll(rand.Next(5) + 1);
+                aGame.players[aGame.currentPlayer] = aGame.roll(aGame.players[aGame.currentPlayer], rand.Next(5) + 1);
 
                 if (rand.Next(9) == 7)
                 {
@@ -41,8 +41,6 @@ namespace Trivia
                 {
                     notAWinner = aGame.wasCorrectlyAnswered();
                 }
-
-
 
             } while (notAWinner);
         }
