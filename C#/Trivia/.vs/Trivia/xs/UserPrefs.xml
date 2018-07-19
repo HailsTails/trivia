@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6DF4340A-A044-4593-BC79-8F7961BB91E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Trivia/NUnitTestClass.cs">
+    <Files>
+      <File FileName="Trivia/Game.cs" Line="211" Column="10" />
+      <File FileName="Trivia/GameRunner.cs" Line="12" Column="6" />
+      <File FileName="Trivia/NUnitTestClass.cs" Line="21" Column="14" />
+      <File FileName="Trivia/Output.txt" Line="18" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Trivia PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
